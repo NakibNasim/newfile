@@ -19,3 +19,13 @@ h1{
     text-align: center;
     font-size: 50px;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+.form{
+    background-color: teal;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+    margin-top: 0%;
+    border-radius: 10px;
+    border: 10px;
+    border-color: tomato;
+}
